@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oathohnoow.nunes.pl/sitemap.xml
